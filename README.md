@@ -6,3 +6,4 @@ Pessoas com esse perfil evitam desafios, desistem facilmente, temem falhas e enx
 ## Mentalidade de crescimento:
 <p> Mindset de crescimento (growth mindset) é a crença de que habilidades e inteligência podem ser desenvolvidas por meio de esforço, aprendizado e perseverança. 
 Popularizado por Carol Dweck da Universidade de Stanford, esse modelo mental encara erros e desafios como oportunidades para evoluir, em vez de limitações fixas.</p>
+
