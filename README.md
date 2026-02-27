@@ -14,4 +14,4 @@ próximo. Lembre-se: <ins>guie-se pelos
 princípios para alcançar os fins</ins> —
 os fins jamais devem justificar os meios.
 
-<img src="mentalidade.png" width="900" height="800">
+<img src="mentalidade.png" width="700" height="700">
